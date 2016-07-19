@@ -19,7 +19,7 @@ const DefaultDecorators = [
       getButtonStyles(disabled) {
         return {
           border: 0,
-          background: 'rgba(0,0,0,0.4)',
+          background: 'rgba(f,f,f,0.4)',
           color: 'white',
           padding: 10,
           outline: 0,
@@ -46,7 +46,7 @@ const DefaultDecorators = [
       getButtonStyles(disabled) {
         return {
           border: 0,
-          background: 'rgba(0,0,0,0.4)',
+          background: 'rgba(f,f,f,0.4)',
           color: 'white',
           padding: 10,
           outline: 0,
